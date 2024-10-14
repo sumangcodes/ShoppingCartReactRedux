@@ -2,7 +2,7 @@
 
 # React-Redux Shopping Cart
 
-This is a simple shopping cart application built with React and Redux. It features geeky items and a stylish design with custom fonts and colors.
+This is a simple shopping cart application built with React and Redux. It features  items and a stylish design with custom fonts and colors.
 
 ## Features
 
