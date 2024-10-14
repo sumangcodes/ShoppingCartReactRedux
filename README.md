@@ -9,7 +9,7 @@ This is a simple shopping cart application built with React and Redux. It featur
 - Add and remove items from the cart
 - Display total amount in the cart
 -  item names for a fun twist
-- Stylish and geeky fonts and color scheme
+- Stylish  fonts and color scheme
 
 ## Installation
 
